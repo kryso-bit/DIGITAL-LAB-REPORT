@@ -24,7 +24,7 @@ A collection of digital electronics laboratory experiments exploring Boolean log
 🔬 Experiment Portfolio
 #	Experiment	Key Concepts	Logisim Circuit
 | # | Experiment | Key Concepts | 
-|---:|---|---|---|
+|---:|---|---|
 | 1 | Boolean Expression Simplifier | K-map, SOP minimization |
 | 2 | Natural Language to Logic Circuit | Boolean expressions, logic gates | 
 | 3 | Traffic Light Controller | Moore FSM, D flip-flops | 
