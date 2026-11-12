@@ -25,15 +25,15 @@ A collection of digital electronics laboratory experiments exploring Boolean log
 #	Experiment	Key Concepts	Logisim Circuit
 | # | Experiment | Key Concepts | Logisim Circuit |
 |---:|---|---|---|
-| 1 | Boolean Expression Simplifier | K-map, SOP minimization | [Open circuit](https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/Logic1.png) |
-| 2 | Natural Language to Logic Circuit | Boolean expressions, logic gates | [Open circuit](https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/Logic2.png) |
-| 3 | Traffic Light Controller | Moore FSM, D flip-flops | [Open circuit](https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/logic3a.png,https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/logic3b.png,https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/logic3c.png) |
-| 4 | AI-Based Fault Detection | Fault analysis, truth tables | [Open circuit](logic4.png) |
-| 5 | Digital Clock | Counters, rollover logic, displays | [Open circuit](circuits/Experiment-05-Digital-Clock.circ) |
-| 6 | Sequential Building Blocks | Flip-flops, Mod-60 counter, shift register | [Open circuit](circuits/Experiment-06-Sequential-Blocks.circ) |
-| 7 | Automatic Parking Barrier | FSM, sensors, control logic | [Open circuit](circuits/Experiment-07-Parking-Barrier.circ) |
-| 8 | 4-Bit Mini-ALU and Program Counter | Arithmetic circuits, datapath, counter | [Open circuit](circuits/Experiment-08-Mini-ALU-Program-Counter.circ) |
-| 9 | Code-to-Gate Explainer | Comparators, multiplexers, logic design | [Open circuit](circuits/Experiment-09-Code-to-Gate.circ) |
+| 1 | Boolean Expression Simplifier | K-map, SOP minimization |
+| 2 | Natural Language to Logic Circuit | Boolean expressions, logic gates | 
+| 3 | Traffic Light Controller | Moore FSM, D flip-flops | 
+| 4 | AI-Based Fault Detection | Fault analysis, truth tables |
+| 5 | Digital Clock | Counters, rollover logic, displays |
+| 6 | Sequential Building Blocks | Flip-flops, Mod-60 counter, shift register |
+| 7 | Automatic Parking Barrier | FSM, sensors, control logic |
+| 8 | 4-Bit Mini-ALU and Program Counter | Arithmetic circuits, datapath, counter | 
+| 9 | Code-to-Gate Explainer | Comparators, multiplexers, logic design |
 
 
 ✨ Highlights
