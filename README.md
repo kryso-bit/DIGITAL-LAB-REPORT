@@ -27,7 +27,7 @@ A collection of digital electronics laboratory experiments exploring Boolean log
 |---:|---|---|---|
 | 1 | Boolean Expression Simplifier | K-map, SOP minimization | [Open circuit](https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/Logic1.png) |
 | 2 | Natural Language to Logic Circuit | Boolean expressions, logic gates | [Open circuit](https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/Logic2.png) |
-| 3 | Traffic Light Controller | Moore FSM, D flip-flops | [Open circuit](logic3a.png,logic3b.png,logic3c.png) |
+| 3 | Traffic Light Controller | Moore FSM, D flip-flops | [Open circuit](https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/logic3a.png,https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/logic3b.png,https://github.com/kryso-bit/DIGITAL-LAB-REPORT/blob/main/circuits/logic3c.png) |
 | 4 | AI-Based Fault Detection | Fault analysis, truth tables | [Open circuit](logic4.png) |
 | 5 | Digital Clock | Counters, rollover logic, displays | [Open circuit](circuits/Experiment-05-Digital-Clock.circ) |
 | 6 | Sequential Building Blocks | Flip-flops, Mod-60 counter, shift register | [Open circuit](circuits/Experiment-06-Sequential-Blocks.circ) |
