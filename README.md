@@ -47,4 +47,4 @@ A collection of digital electronics laboratory experiments exploring Boolean log
 - Logisim / Logisim Evolution — circuit design and simulation
 - ChatGPT and Gemini — AI-assisted design exploration
 - Digital logic fundamentals — Boolean algebra, K-maps, FSMs, registers, counters, and datapaths
-- 
+  
