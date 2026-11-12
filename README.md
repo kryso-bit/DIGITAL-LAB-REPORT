@@ -1,4 +1,4 @@
-⚡# Digital Electronics Laboratory Portfolio
+# Digital Electronics Laboratory Portfolio
 
 A collection of digital electronics laboratory experiments exploring Boolean logic, combinational and sequential circuits, finite state machines, counters, registers, and practical digital systems. The circuits are designed and simulated using Logisim / Logisim Evolution, with AI-assisted tools used in selected experiments for design exploration and explanation.
 
